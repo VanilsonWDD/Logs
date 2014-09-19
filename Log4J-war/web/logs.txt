@@ -1,0 +1,2 @@
+2014-08-29 05:14:45,008 [http-listener-1(2)] ERROR managedbean.Calculo ERROR [http-listener-1(2)] 
+(Calculo.java:33) - Erro ao somar número: java.lang.NumberFormatException: For input string: "numero"
